@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "id": "movie1",
+      "image": "https://images.unsplash.com/photo-1620853720814-763f74b945ab?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Jack the Ripper",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi mollitia inventore at praesentium maxime corporis laboriosam ex minus corrupti recusandae perferendis illo maiores cumque optio rem modi, aliquid architecto!",
+      "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi mollitia inventore at praesentium maxime corporis laboriosam ex minus corrupti recusandae perferendis illo maiores cumque optio rem modi, aliquid architecto dignissimos quasi quia exercitationem non, eaque voluptatem. Obcaecati deleniti itaque quo!"
+    },
+    {
+      "id": "movie2",
+      "image": "https://images.unsplash.com/photo-1620853720814-763f74b945ab?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Ted Bundy",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi mollitia inventore at praesentium maxime corporis laboriosam ex minus corrupti recusandae perferendis illo maiores cumque optio rem modi, aliquid architecto!",
+      "review": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi mollitia inventore at praesentium maxime corporis laboriosam ex minus corrupti recusandae perferendis illo maiores cumque optio rem modi, aliquid architecto dignissimos quasi quia exercitationem non, eaque voluptatem. Obcaecati deleniti itaque quo!"
+    }
+  ]
+}

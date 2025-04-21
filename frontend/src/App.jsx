@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import RootLayout from "./layouts/RootLayout";
-import Home from "./pages/Home";
-import MovieDetail from "./pages/MovieDetail";
+import Home, { loader as moviesLoader } from "./pages/Home";
+import MovieDetail, { loader as movieDetailLoader } from "./pages/MovieDetail";
 
 const router = createBrowserRouter([
   {
@@ -11,10 +11,12 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <Home />,
+        loader: moviesLoader,
       },
       {
         path: "movies/:movieId",
         element: <MovieDetail />,
+        loader: movieDetailLoader,
       },
     ],
   },
